@@ -1,6 +1,10 @@
 
 
 public struct CustomPrinter {
+    public init() {
+        
+    }
+    
     public func printHello() {
         print("Hello")
     }
